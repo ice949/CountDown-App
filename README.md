@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Wedding CountDown App
+# Wedding CountDown App, that gives a countdown for the guests to attend making it easy for them not to miss
 
 > Description the project.
 
